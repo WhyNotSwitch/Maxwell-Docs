@@ -1,6 +1,7 @@
 # Maxwell: A Smart Metering Solution for Decentralized Energy Systems
 
 Maxwell Smart Meter is a game-changing new technology developed by Switch Electric, built on the power of real-time sensors and web3 technologies to enable complex metering services in decentralized energy systems such as microgrids. In the span of just one minute, a smart meter can collect and analyzes over 3,600 data points from several different sensors, including voltage, current, frequency and power factor. Using this data, the meter is able to calculate a very accurate reading of the energy being produced or consumed by any resource connected to it. 
+![image](https://user-images.githubusercontent.com/52095470/230645076-e479f0d7-fa5d-482b-9ab6-a9cff2a46b32.png)
 
 ## Hardware Specifications
 
@@ -17,5 +18,10 @@ To ensure data security, the device can secure its data by digitally signing the
 
 
 ## LoRaWAN and Helium Integration
+![image](https://user-images.githubusercontent.com/52095470/230648199-5775570e-d41a-409b-9f36-eed9790abb9f.png)<br>
 Switch Electric is in the process of bringing Maxwell to Helium's IoT network, which provides LoRaWAN coverage for many devices. Maxwell communicates via this technology and can send data across distances up to 3 km. Integrating Maxwell with Helium's IoT network can enable it to leverage the network's LoRaWAN coverage, which can provide reliable and cost-effective long-range communication capabilities. This can be particularly useful in scenarios where the Maxwell device is located in remote or hard-to-reach areas, or where traditional wireless communication methods may be limited or costly.
-<br><br>![image](https://user-images.githubusercontent.com/52095470/230642640-3bde5a68-b737-49ee-b2b4-3bc8d286295d.png)
+
+## About Switch Electric
+Switch Electric is building a web3 metering infrastructure and a platform for tokenizing rooftop solar assets. We aim to create the technological infrastructure needed for a decentralized energy internet and peer-to-peer marketplace, where producers can sell excess energy directly at wholesale prices. We envision a cost-effective decentralized energy internet for all of Africa's 1 billion people by the year 2100.
+![image](https://user-images.githubusercontent.com/52095470/230646235-3934bc25-aed1-4534-9d89-efcf2097e539.png)
+
